@@ -24,7 +24,7 @@ In order for your project to be able to find these packages, you should add the 
         </repository>
         <repository>
           <id>github</id>
-          <url>https://maven.pkg.github.com/helpet-inc/backend-maven-repository</url>
+          <url>https://maven.pkg.github.com/helpet-app/backend-maven-repository</url>
           <snapshots>
             <enabled>true</enabled>
           </snapshots>
